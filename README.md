@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erkansrli
 - 👀 I’m interested in java,javasrtrip,html/css3 
-- 🌱 I’m currently learning java,javastrip
+- 🌱 I’m currently learning javastrip
 
 
 <!---
