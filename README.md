@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erkansrli
-- 👀 I’m interested in java,javasrtrip,html/css3 
-- 🌱 I’m currently learning javastrip
+- 👀 I’m interested in javasrtrip,html/css3 
+- 🌱 I’m currently learning React
 
 <br>
 <h3 align="left">Connect with me:</h3>
