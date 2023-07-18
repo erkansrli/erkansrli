@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @erkansrli
-- 👀 I’m interested in javasrtrip,html/css3 
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Erkan Şarli
+- 👀 I’m interested in .Net Core,React,Angular
+- 🌱 I’m currently learning .Net Core
 
 <br>
 <h3 align="left">Connect with me:</h3>
