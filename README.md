@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erkan Şarli
+- 👋 Hi, I’m Erkan Şarlı
 - 👀 I’m interested in .Net Core,React,Angular
 - 🌱 I’m currently learning .Net Core
 
